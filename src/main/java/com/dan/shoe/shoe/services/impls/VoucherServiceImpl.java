@@ -5,7 +5,6 @@ import com.dan.shoe.shoe.models.User;
 import com.dan.shoe.shoe.models.Voucher;
 import com.dan.shoe.shoe.models.VoucherUsage;
 import com.dan.shoe.shoe.repositories.VoucherRepository;
-import com.dan.shoe.shoe.repositories.VoucherUsageRepository;
 import com.dan.shoe.shoe.services.VoucherService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
