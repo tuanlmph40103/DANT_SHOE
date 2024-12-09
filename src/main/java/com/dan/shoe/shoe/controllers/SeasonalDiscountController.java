@@ -1,6 +1,5 @@
 package com.dan.shoe.shoe.controllers;
 
-import com.dan.shoe.shoe.dtos.requests.SeasonalDiscountCreation;
 import com.dan.shoe.shoe.models.SeasonalDiscount;
 import com.dan.shoe.shoe.services.SeasonalDiscountService;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,6 +1,5 @@
 package com.dan.shoe.shoe.services.impls;
 
-import com.dan.shoe.shoe.dtos.responses.ResponseMessage;
 import com.dan.shoe.shoe.models.Brand;
 import com.dan.shoe.shoe.repositories.BrandRepository;
 import com.dan.shoe.shoe.services.BrandService;

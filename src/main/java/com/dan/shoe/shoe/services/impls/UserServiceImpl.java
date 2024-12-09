@@ -1,9 +1,6 @@
 package com.dan.shoe.shoe.services.impls;
 
-import com.dan.shoe.shoe.dtos.requests.ChangePasswordForm;
 import com.dan.shoe.shoe.dtos.requests.UpdateProfile;
-import com.dan.shoe.shoe.dtos.requests.UserUpdatetionByAdmin;
-import com.dan.shoe.shoe.dtos.responses.ResponseMessage;
 import com.dan.shoe.shoe.models.FileUpload;
 import com.dan.shoe.shoe.models.Role;
 import com.dan.shoe.shoe.models.User;

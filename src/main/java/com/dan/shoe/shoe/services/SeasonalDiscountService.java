@@ -1,7 +1,5 @@
 package com.dan.shoe.shoe.services;
 
-import com.dan.shoe.shoe.dtos.requests.SeasonalDiscountCreation;
-import com.dan.shoe.shoe.dtos.responses.ResponseMessage;
 import com.dan.shoe.shoe.models.SeasonalDiscount;
 
 import java.util.List;

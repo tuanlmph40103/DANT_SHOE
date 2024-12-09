@@ -1,7 +1,5 @@
 package com.dan.shoe.shoe.services.impls;
 
-import com.dan.shoe.shoe.dtos.requests.CartRequest;
-import com.dan.shoe.shoe.dtos.responses.ResponseMessage;
 import com.dan.shoe.shoe.models.Cart;
 import com.dan.shoe.shoe.models.CartItem;
 import com.dan.shoe.shoe.models.ProductVariant;
@@ -14,9 +12,6 @@ import com.dan.shoe.shoe.services.CartService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
-
-import java.util.ArrayList;
-import java.util.List;
 
 @Repository
 public class CartServiceImpl implements CartService {

@@ -1,7 +1,5 @@
 package com.dan.shoe.shoe.services.impls;
 
-import com.dan.shoe.shoe.dtos.requests.ProductCreationRequest;
-import com.dan.shoe.shoe.dtos.responses.ResponseMessage;
 import com.dan.shoe.shoe.models.Brand;
 import com.dan.shoe.shoe.models.Category;
 import com.dan.shoe.shoe.models.Product;
